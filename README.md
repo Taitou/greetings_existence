@@ -1,2 +1,2 @@
 # greetings_existence
-# The quick brown fox jumps over the lazy dog.
+# The quick blue fox jumps over the lazy dog.
